@@ -10,7 +10,7 @@
     <link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
 
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>EightySix Ops</title>
 </head>
 
 <body>
